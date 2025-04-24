@@ -48,3 +48,5 @@
 - Create/organize events
 - Associate keywords to events
 - View/manage event registrations and attendees
+- Event auto-closing
+  - An event is automatically closed via database trigger after it reaches its max attendee count
